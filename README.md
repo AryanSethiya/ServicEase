@@ -1,4 +1,4 @@
-Here’s a ready-to-copy README file:
+
 
 ---
 

@@ -111,4 +111,4 @@ For inquiries or support, please contact us at:
 
 --- 
 
-Copy this file into your GitHub repository’s README.md! 😊
+
